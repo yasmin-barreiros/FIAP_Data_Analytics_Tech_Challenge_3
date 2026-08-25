@@ -1,1 +1,1 @@
-#Gráficos gerados na camada gold
+Gráficos gerados na camada gold
