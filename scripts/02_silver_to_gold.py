@@ -45,7 +45,7 @@ map_2024 = {
     "2_g_nivel": "senioridade",
     "2_h_faixa_salarial": "faixa_salarial",
     "2_r_modelo_de_trabalho_atual": "modelo_trabalho",
-    "4_m_usa_chatgpt_ou_copilot_no_trabalho": "uso_ia_generativa", # <-- CORRIGIDO AQUI
+    "4_m_usa_chatgpt_ou_copilot_no_trabalho": "uso_ia_generativa",
     "4_d_linguagem_de_programacao_dia_a_dia": "linguagens_utilizadas",
     "4_h_cloud_dia_a_dia": "cloud_utilizada",
     "ano_pesquisa": "ano_pesquisa"
@@ -63,7 +63,7 @@ map_2025 = {
     "2_g_nivel": "senioridade",
     "2_h_faixa_salarial": "faixa_salarial",
     "2_q_modelo_de_trabalho_atual": "modelo_trabalho",
-    "4_j_usa_chatgpt_ou_copilot_no_trabalho": "uso_ia_generativa", # <-- CORRIGIDO AQUI
+    "4_j_usa_chatgpt_ou_copilot_no_trabalho": "uso_ia_generativa",
     "4_c_linguagem_preferida": "linguagens_utilizadas",
     "4_e_cloud_dia_a_dia": "cloud_utilizada",
     "ano_pesquisa": "ano_pesquisa"
